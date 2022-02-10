@@ -2,6 +2,8 @@
 
    Write a C program to input marks of two subjects. Calculate and print the average of the two marks. */
 
+   //IT21184376
+
 #include <stdio.h>
 
 int main() {
