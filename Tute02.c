@@ -2,7 +2,7 @@
 
 Write a program to calculate the amount to be paid for a rented vehicle.
 
-•	Input the distance the van has travelled
+•	Input the distance the van has traveled
 •	The first 30 km is at a rate of 50/= per km.
 •	The remaining distance is calculated at the rate of 40/= per km.
 
